@@ -1,0 +1,9 @@
+[package]
+name = "scr-hart"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bitfield = "0.15.0"
+eframe = "0.27.2"
+egui = "0.27.2"
